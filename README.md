@@ -1,4 +1,4 @@
-### WagonVision: Real-Time Railway Wagon Number Recognition
+# WagonVision: Real-Time Railway Wagon Number Recognition
 
 **WagonVision** — это система компьютерного зрения на базе YOLOv8 для автоматического обнаружения, отслеживания и распознавания номеров грузовых железнодорожных вагонов в реальном времени.
 
